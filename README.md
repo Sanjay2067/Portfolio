@@ -61,7 +61,6 @@ Upload to GitHub Pages for free hosting.
 </head>
 <body>
 
-    <!-- STEP 3: Navigation Bar -->
     <header>
         <nav class="navbar">
             <h1 class="logo">MyPortfolio</h1>
@@ -74,7 +73,6 @@ Upload to GitHub Pages for free hosting.
         </nav>
     </header>
 
-    <!-- STEP 4: Sections -->
     <section id="home" class="section home">
         <h2>Hello, I'm Magendra 👋</h2>
         <p>Aspiring Web Developer</p>
@@ -110,11 +108,11 @@ Upload to GitHub Pages for free hosting.
 
 </body>
 </html>
-
-
+```
+```
 style.css
 
-/* STEP 5: Global Styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -128,7 +126,6 @@ body {
     line-height: 1.6;
 }
 
-/* STEP 6: Header & Navbar */
 header {
     background: #111;
     padding: 15px 40px;
