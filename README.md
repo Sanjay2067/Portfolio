@@ -1,5 +1,5 @@
 # Ex01 Portfolio
-## Date:
+## Date:02/02/2026
 
 ## AIM
 To create a Portfolio using HTML and CSS.
@@ -201,9 +201,8 @@ footer {
 ```
 
 ## OUTPUT
-![alt text](<../1 (2).png>)
-![alt text](<../2 (2).png>)
-![alt text](<../3 (2).png>)
-
+![alt text](<1 (2).png>)
+![alt text](<2 (2).png>)
+![alt text](<3 (2).png>)
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
